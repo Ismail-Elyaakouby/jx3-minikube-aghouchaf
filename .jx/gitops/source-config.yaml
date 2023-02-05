@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: HelloWorld
+    - name: Ismail-Elyaakouby-ism
     - name: jx-spring-boot-demo1
     scheduler: in-repo
   slack:
